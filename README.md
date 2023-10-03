@@ -20,7 +20,7 @@
 
 :book: In my free time, I focus on personal growth by exploring new technologies and participating in projects that can expand my knowledge and skills.
 
-:rocket: I also tackle coding challenges on CodeWars: [![codewars](https://www.codewars.com/users/amberlynn364/badges/large)](https://www.codewars.com/users/amberlynn364)
+:rocket: I also tackle coding challenges on CodeWars: [![codewars](https://www.codewars.com/users/amberlynn364/badges/small)](https://www.codewars.com/users/amberlynn364)
 ### :hammer_and_wrench: Languages and Tools :
 <div>
   <img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
