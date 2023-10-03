@@ -1,4 +1,5 @@
 ### Hi there 👋, my name is Ivan
+---
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif" width="200"/>
 </div>
@@ -14,6 +15,7 @@
 </div>
 <br>
 
+---
 ### :man_technologist: About Me :
 
 :computer: I'm a frontend developer with one year of experience, eager for continuous learning and growth. My passion lies in crafting amazing web applications, and I'm dedicated to improving my skills in this field..
@@ -22,6 +24,8 @@
 
 :rocket: I also tackle coding challenges on CodeWars: <br>
 [![codewars](https://www.codewars.com/users/amberlynn364/badges/large)](https://www.codewars.com/users/amberlynn364)
+
+---
 ### :hammer_and_wrench: Languages and Tools :
 <div>
   <img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
@@ -35,3 +39,5 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/webpack/webpack-original.svg" title="Webpack"  alt="Webpack" width="40" height="40"/>&nbsp;
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
+
+---
