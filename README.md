@@ -35,11 +35,8 @@ const ivan = {
 ---
 
 ### 🏗️ My projects :
-<a href="https://github.com/amberlynn364/eCommerce-Application" target="_blank">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=amberlynn364&repo=eCommerce-Application&theme=dracula" />
-</a>
-<a href="https://github.com/amberlynn364/eCommerce-Application" target="_blank">
- <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=amberlynn364&repo=eCommerce-Application&theme=dracula" />
+<a href="https://github.com/amberlynn364/car-promises/tree/main" target="_blank">
+ <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=amberlynn364&repo=car-promises&theme=dracula" />
 </a>
 
 ---
