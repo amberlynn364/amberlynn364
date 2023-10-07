@@ -7,7 +7,7 @@ const ivan = {
   position: "Front-End developer",
   email: "amberlynn364@gmail.com",
   telegram: "@amberlynn364",
-  languages: ["Russian native", "English upper-intermediate"]
+  languages: ["Russian native", "English upper-intermediate(B2)"]
 }
 ```
 
