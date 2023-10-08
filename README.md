@@ -35,8 +35,6 @@ const ivan = {
   </a>
 </div>
 
-
-
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
@@ -46,6 +44,7 @@ const ivan = {
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/materialui/materialui-original.svg" title="Material UI" alt="Material UI" width="40" height="40"/>&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-plain.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/sass/sass-original.svg"  title="CSS3" alt="SCSS" width="40" height="40"/>&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" title="TypeScript" alt="TypeScript" width="40" height="40"/>&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jest/jest-plain.svg" title="Jest"  alt="Jest" width="40" height="40"/>&nbsp;
@@ -55,19 +54,31 @@ const ivan = {
 
 ---
 
-### 🏗️ My projects :
-<a href="https://github.com/amberlynn364/car-promises/tree/main" target="_blank">
- <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=amberlynn364&repo=car-promises&theme=dracula" />
-</a>
+### 🏗️ My Projects:
+
+#### [1. Free place](https://github.com/amberlynn364/CSS-selectors-game)
+
+**Description:** ....
+
+#### [2. Car promises](https://github.com/amberlynn364/car-promises)
+
+**Description:** Single Page Application (SPA) for managing a car collection, operating car engines, and displaying race statistics. It also highlights key aspects such as server communication via Fetch and REST API, async programming with Promises, dynamic JavaScript animations, and DOM manipulation..
+
+#### [3. Markup and CSS Selector Trainer](https://github.com/amberlynn364/CSS-selectors-game)
+
+**Description:** An interactive trainer for practicing CSS selector writing. The project helps you improve your skills in working with CSS. Built with TypeScript and Webpack for efficient development.
+
+#### [4. Minesweeper Game Clone](https://github.com/amberlynn364/Minesweeper)
+
+**Description:** A clone of the classic "Minesweeper" game built using vanilla JavaScript. The game offers a real challenge for your logical skills.
 
 ---
 
 <div id="badges">
-  <a href="https://t.me/amberlynn364" target="_blank">
+  <a href="https://t.me/amberlynn364" target="_blank"">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram">
   </a>
   <a href="mailto:amberlynn364@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
   </a>
 </div>
-<!-- <div align="center"> -->
