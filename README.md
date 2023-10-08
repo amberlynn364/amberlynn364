@@ -26,7 +26,7 @@ const ivan = {
 - This course was highly intensive, requiring 20 to 40 hours per week.
 - I regularly solved complex assignments and passed assessments to demonstrate my knowledge, which was rigorously evaluated through video calls to ensure both theoretical understanding and practical application.
 - Completed all assignments and successfully finished the course.
-- The additional information about this course are available [here](https://rs.school/js/).
+- The additional information about this course is available <a href="https://rs.school/js/" target="_blank">here</a>.
 - Ready to apply the knowledge and skills gained from this course in practical situations!
 
 <div align="center">
