@@ -19,6 +19,26 @@ const ivan = {
 [![codewars](https://www.codewars.com/users/amberlynn364/badges/large)](https://www.codewars.com/users/amberlynn364)
 
 ---
+
+### My Educational Achievement
+
+- Successfully completed the course "The RS School JAVASCRIPT/FRONT-END".
+- This course was highly intensive, requiring 20 to 40 hours per week.
+- I regularly solved complex assignments and passed assessments to demonstrate my knowledge, which was rigorously evaluated through video calls to ensure both theoretical understanding and practical application.
+- Completed all assignments and successfully finished the course.
+- The additional information about this course are available [here](https://rs.school/js/).
+- Ready to apply the knowledge and skills gained from this course in practical situations!
+
+<div align="center">
+  <a href="https://imageup.ru/img35/4564262/certificate.jpg">
+    <img src="https://imageup.ru/img35/4564262/certificate.jpg" alt="Certificate Image" />
+  </a>
+</div>
+
+
+
+---
+
 ### :hammer_and_wrench: Languages and Tools :
 <div>
   <img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
