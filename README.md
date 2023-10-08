@@ -7,13 +7,16 @@ const ivan = {
   position: "Front-End developer",
   email: "amberlynn364@gmail.com",
   telegram: "@amberlynn364",
-  languages: ["Russian native", "English upper-intermediate(B2)"]
 }
 ```
 
 :computer: I'm a frontend developer with one year of experience, eager for continuous learning and growth. My passion lies in crafting amazing web applications, and I'm dedicated to improving my skills in this field.
 
 :book: In my free time, I focus on personal growth by exploring new technologies and participating in projects that can expand my knowledge and skills.
+
+:crossed_flags: Language Proficiency:
+- **Russian:** Native
+- **English:** Upper-Intermediate (B2) [EFSET certificate](https://www.efset.org/cert/8sk6tg)
 
 :rocket: I also tackle coding challenges on CodeWars: <br>
 [![codewars](https://www.codewars.com/users/amberlynn364/badges/large)](https://www.codewars.com/users/amberlynn364)
