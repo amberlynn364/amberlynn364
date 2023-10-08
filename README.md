@@ -33,7 +33,7 @@ const ivan = {
 - Ready to apply the knowledge and skills gained from this course in practical situations!
 
 <div align="center">
-  <a href="https://imageup.ru/img35/4564262/certificate.jpg">
+  <a href="https://app.rs.school/certificate/5nz7q9iq">
     <img src="https://imageup.ru/img35/4564262/certificate.jpg" alt="Certificate Image" />
   </a>
 </div>
