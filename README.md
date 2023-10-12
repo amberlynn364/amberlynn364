@@ -65,7 +65,7 @@ const ivan = {
 
 #### [2. Car promises](https://github.com/amberlynn364/car-promises)
 
-**Description:** Single Page Application (SPA) for managing a car collection, operating car engines, and displaying race statistics. It also highlights key aspects such as server communication via Fetch and REST API, async programming with Promises, dynamic JavaScript animations, and DOM manipulation..
+**Description:** Single Page Application (SPA) for managing a car collection, operating car engines, and displaying race statistics. It also highlights key aspects such as server communication via Fetch and REST API, async programming with Promises, dynamic JavaScript animations, and DOM manipulation.
 
 #### [3. Markup and CSS Selector Trainer](https://github.com/amberlynn364/CSS-selectors-game)
 
