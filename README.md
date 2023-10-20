@@ -61,7 +61,7 @@ const ivan = {
 
 #### [1. Kratkoe](https://github.com/amberlynn364/Kratkoe)
 
-**Description:** Team development of the "Kratkoe" SPA online store. Focused on intuitive online shopping, providing adaptability, and a multifunctional product catalog. Implemented using the Scrum methodology in 4 sprints, with technologies including HTML5, Sass(SCSS), TypeScript, React, and Redux Toolkit.
+**Description:** "Kratkoe" SPA online store. Focused on intuitive online shopping, providing adaptability, and a multifunctional product catalog. Implemented using the Scrum methodology in 4 sprints, with technologies including HTML5, Sass(SCSS), TypeScript, React, and Redux Toolkit.
 
 #### [2. Car promises](https://github.com/amberlynn364/car-promises)
 
