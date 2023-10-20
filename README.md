@@ -67,7 +67,7 @@ const ivan = {
 
 **Description:** Single Page Application (SPA) for managing a car collection, operating car engines, and displaying race statistics. It also highlights key aspects such as server communication via Fetch and REST API, async programming with Promises, dynamic JavaScript animations, and DOM manipulation.
 
-#### [3. Markup and CSS Selector Trainer](https://github.com/amberlynn364/CSS-selectors-game)
+#### [3. CSS Selector Trainer](https://github.com/amberlynn364/CSS-selectors-game)
 
 **Description:** An interactive trainer for practicing CSS selector writing. The project helps you improve your skills in working with CSS. Built with TypeScript and Webpack for efficient development.
 
