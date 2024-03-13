@@ -36,6 +36,9 @@ const ivan = {
   <a href="https://app.rs.school/certificate/5nz7q9iq">
     <img src="https://imageup.ru/img35/4564262/certificate.jpg" alt="Certificate Image" />
   </a>
+   <a href="https://app.rs.school/certificate/lbjx6rau">
+    <img src="https://imageup.ru/img93/4764154/lbjx6rau-1_page-0001.jpg" width=500 alt="Certificate Image" />
+  </a>
 </div>
 
 ---
