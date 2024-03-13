@@ -57,25 +57,7 @@ const ivan = {
 
 ---
 
-### 🏗️ My Projects:
 
-#### [1. Kratkoe](https://github.com/amberlynn364/Kratkoe)
-
-**Description:** "Kratkoe" SPA online store. Focused on intuitive online shopping, providing adaptability, and a multifunctional product catalog. Implemented using the Scrum methodology in 4 sprints, with technologies including HTML5, Sass(SCSS), TypeScript, React, and Redux Toolkit.
-
-#### [2. Car promises](https://github.com/amberlynn364/car-promises)
-
-**Description:** Single Page Application (SPA) for managing a car collection, operating car engines, and displaying race statistics. It also highlights key aspects such as server communication via Fetch and REST API, async programming with Promises, dynamic JavaScript animations, and DOM manipulation.
-
-#### [3. CSS Selector Trainer](https://github.com/amberlynn364/CSS-selectors-game)
-
-**Description:** An interactive trainer for practicing CSS selector writing. The project helps you improve your skills in working with CSS. Built with TypeScript and Webpack for efficient development.
-
-#### [4. Minesweeper Game Clone](https://github.com/amberlynn364/Minesweeper)
-
-**Description:** A clone of the classic "Minesweeper" game built using vanilla JavaScript. The game offers a real challenge for your logical skills.
-
----
 
 <div id="badges">
   <a href="https://t.me/amberlynn364" target="_blank"">
